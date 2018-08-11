@@ -36,7 +36,7 @@
 #include <boost/thread/lock_guard.hpp>
 #include <vector>
 
-#include "common/pod-class.h"
+#include "Common/pod-class.h"
 #include "generic-ops.h"
 #include "hash.h"
 

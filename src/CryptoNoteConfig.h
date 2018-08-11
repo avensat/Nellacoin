@@ -65,7 +65,7 @@ const char     MINER_CONFIG_FILE_NAME[]                      = "miner_conf.json"
 } // parameters
 
 const char     CRYPTONOTE_NAME[]                             = "Nellacoin";
-const char     GENESIS_COINBASE_TX_HEX[]                     = "010101ff0001ffffffffffff01029b2e4c0281c0b02e7c53291a94d1d0cbff8883f8024f5142ee494ffbbd08807121017308c1c039950a1b08a21bf8b17c8d7d59b109d1f6c5f400e5b38f1ab77cd3be";
+const char     GENESIS_COINBASE_TX_HEX[]                     = "010101ff0001ffffffffffff01029b2e4c0281c0b02e7c53291a94d1d0cbff8883f8024f5142ee494ffbbd0880712101a06cd7d80885a4afe548ad80c5e0531e80d0e5d6ea0fd4044e14e54e996d5b2f";
 
 const uint8_t  CURRENT_TRANSACTION_VERSION                   =  1;
 const uint8_t  BLOCK_MAJOR_VERSION_1                         =  1;

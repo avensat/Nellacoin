@@ -96,6 +96,7 @@ const char     P2P_STAT_TRUSTED_PUB_KEY[]                    = "8f80f9a5a434a9f1
 //TODO Add here your network seed nodes
 const std::initializer_list<const char*> SEED_NODES = {
   "78.145.182.148:9600",
+  "seed-nella-0.triforcecoin.com:9600",
   //"your_seed_ip2.com:8080",
 };
 

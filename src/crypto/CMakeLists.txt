@@ -52,7 +52,7 @@ set(crypto_headers)
 set(crypto_private_headers
   blake256.h
   chacha.h
-  crypto-ops.h
+#  crypto-ops.h
   crypto.h
   generic-ops.h
   groestl.h

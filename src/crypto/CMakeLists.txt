@@ -30,8 +30,8 @@ set(crypto_sources
   aesb.c
   blake256.c
   chacha.c
-  crypto-ops-data.c
-  crypto-ops.c
+#  crypto-ops-data.c
+#  crypto-ops.c
   crypto.cpp
   groestl.c
   hash-extra-blake.c

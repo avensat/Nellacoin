@@ -96,6 +96,7 @@ const char     P2P_STAT_TRUSTED_PUB_KEY[]                    = "8f80f9a5a434a9f1
 //TODO Add here your network seed nodes
 const std::initializer_list<const char*> SEED_NODES = {
   "78.145.182.148:9500", // Nella
+  "78.145.182.148:9600", // Nella
   //Ping our #project-nella channel to be added here,
 };
 

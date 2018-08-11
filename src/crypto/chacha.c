@@ -12,7 +12,6 @@ Public domain.
 
 #include "chacha.h"
 #include "Common/int-util.h"
-#include "warnings.h"
 
 /*
  * The following macros are used to obtain exact-width results.
